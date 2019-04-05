@@ -1,0 +1,2 @@
+# if this key is the only one present, it will attempt to load a CSAR from the given location and use it as the app
+csar_link: https://raw.githubusercontent.com/ahgittin/tosca-demo/master/script1-csar/script1-csar.csar.zip

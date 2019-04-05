@@ -1,0 +1,11 @@
+brooklyn.catalog:
+  bundle: brooklyn.tosca.csar.bom.demo1
+  version: "0.1.0-SNAPSHOT"
+  itemType: application
+  items:
+
+  - id: tosca-csar-script
+    item:
+      csar_link: classpath://script1-csar.csar.zip
+    description: demo scripts used by tosca csar
+
